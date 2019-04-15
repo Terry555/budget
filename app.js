@@ -29,7 +29,7 @@ var controller = (function(budgetCtrl, UICtrl){
 
       // 5. Display the budget on the UI
 
-      console.log('scooby doo')
+      console.log('something else')
     }
 
     document.querySelector('.add__btn').addEventListener('click', ctrlAddItem);
