@@ -52,6 +52,7 @@ var budgetController = (function(){
       },
       testing: function(){
         console.log(data)
+        console.log("testing")
       }
     };
 
